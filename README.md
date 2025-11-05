@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Jaslyn Miura👋
+
+I am an Environmental Data Science Master's student at the Bren School of Environmental Science & Management at UCSB!
 
 <!--
 **jaslynmiura/jaslynmiura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
