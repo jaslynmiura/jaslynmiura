@@ -1,6 +1,10 @@
 ## Hi! I'm Jaslyn Miura👋
 
-I am an Environmental Data Science Master's student at the Bren School of Environmental Science & Management at UCSB!
+I am an Environmental Data Science Master's student at the Bren School of Environmental Science & Management at UCSB! I've been advancing my skills in statistical modeling, machine learning, geospatial analysis, and data visualization to help establish impactful solutions.
+
+I'm a University of Washington alum! I graduated with a B.S. in Environmental Science and Terrestrial Resource Management, with a minor in Quantitative Science.
+
+I grew up on the island of Hawaiʻi, surrounded by a diverse community that deeply cares for the land, which has motivated me to use data-driven solutions to address environmental problems my home faces.
 
 <!--
 **jaslynmiura/jaslynmiura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
